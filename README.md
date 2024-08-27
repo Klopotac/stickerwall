@@ -4,7 +4,7 @@
 
 ## Disclaimer
 
-This project is unofficial and is not endorsed by or affiliated with Bee Swarm Simulator or its developers. All images and stickers used are the property of [Bee Swarm Simulator and are used here for non-commercial purposes. For any concerns or requests regarding content removal, please contact anonymusmicorosfter@gmail.com. 
+This project is unofficial and is not endorsed by or affiliated with Bee Swarm Simulator or its developers. All images and stickers used are the property of Bee Swarm Simulator and are used here for non-commercial purposes. For any concerns or requests regarding content removal, please contact anonymusmicorosfter@gmail.com. 
 
 ## Features
 
