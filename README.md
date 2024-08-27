@@ -24,8 +24,7 @@
    When downloading the executable from Google Chrome, you might see a warning indicating that the file is potentially harmful. This is often a false positive caused by the nature of executable files.
 
    **To proceed safely:**
-   1. **Click on the Download Warning:** Look for the warning at the bottom of the Chrome window and click the `^` (caret) or `Show all` link next to it.
-   2. **Select Keep:** Click `Keep` to retain the file. This confirms that you trust the file despite the warning.
+   1. **Disable the antivirus:**
 
    **If you prefer not to download the executable, you can use the source code provided in this repository.**
 
