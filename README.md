@@ -2,6 +2,10 @@
 
 **Stickerwall** is a Python-based desktop application that allows you to create custom wallpapers by combining stickers, a center image, and a background image. The application features a user-friendly interface built with Tkinter.
 
+## Disclaimer
+
+This project is unofficial and is not endorsed by or affiliated with Bee Swarm Simulator or its developers. All images and stickers used are the property of [Bee Swarm Simulator and are used here for non-commercial purposes. For any concerns or requests regarding content removal, please contact anonymusmicorosfter@gmail.com. 
+
 ## Features
 
 - **Sticker Selection:** Choose and boost stickers.
