@@ -24,7 +24,7 @@
    When downloading the executable from Google Chrome, you might see a warning indicating that the file is potentially harmful. This is often a false positive caused by the nature of executable files.
 
    **To proceed safely:**
-   1. **Disable the antivirus:**
+   1. **Disable the antivirus, if you dont trust me use python**
 
    **If you prefer not to download the executable, you can use the source code provided in this repository.**
 
