@@ -1,4 +1,4 @@
-# Stickerwall 
+# Stickerwall
 
 **Stickerwall** is a Python-based desktop application that allows you to create custom wallpapers by combining stickers, a center image, and a background image. The application features a user-friendly interface built with Tkinter.
 
@@ -19,18 +19,17 @@
 2. **Extract and Run:**
    - Extract the ZIP file and run the `stickerwall.exe` file to start the application.
 
-3. When downloading the executable from Google Chrome, you might see a warning indicating that the file is potentially harmful. This is often a false positive caused by the nature of executable files.
+3. **🚨 Important Note for Google Chrome Users 🚨**
 
- To proceed safely:
- 1. **Click on the Download Warning:** Click the `^` (caret) or `Show all` link next to the warning at the bottom of 
- the Chrome window.
- 2. **Select Keep:** Click `Keep` to retain the file. This confirms that you trust the file despite the warning.
+   When downloading the executable from Google Chrome, you might see a warning indicating that the file is potentially harmful. This is often a false positive caused by the nature of executable files.
 
-Alternatively, you can use the source code provided in this repository. The Python code is available in `stickerwall.py`, and you can run it by installing the necessary dependencies listed in `requirements.txt`.
+   **To proceed safely:**
+   1. **Click on the Download Warning:** Look for the warning at the bottom of the Chrome window and click the `^` (caret) or `Show all` link next to it.
+   2. **Select Keep:** Click `Keep` to retain the file. This confirms that you trust the file despite the warning.
+
+   **If you prefer not to download the executable, you can use the source code provided in this repository.**
 
 ### For Source Code
 
-- **Source Code:** The Python code is available in the `stickerwall.py` file. To run it, you will need to install the  Python packages Pillow and tk
-
-
+- **Source Code:** The Python code is available in the `stickerwall.py` file. To run it, you will need to install the Python packages Pillow and tk.
 
